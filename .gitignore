@@ -1,0 +1,7 @@
+
+search/__pycache__
+search/migrations
+sytyccJob/__pycache__
+sytyccJob/migrations
+.db.sqlite3
+.en
